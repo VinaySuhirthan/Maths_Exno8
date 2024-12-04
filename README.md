@@ -46,7 +46,8 @@ QR_Decomposition(a)
 
 ## Output
 
-![output 8](https://github.com/user-attachments/assets/11b67753-6aaf-49c8-a9c3-c7108329a483)
+![output 8](https://github.com/user-attachments/assets/03f4ed5c-eeb4-4441-a809-8de3cb53c512)
+
 
 <br>
 <br>
